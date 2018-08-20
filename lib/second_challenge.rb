@@ -4,8 +4,10 @@ def second_challenge
       :patriarch => {}
       :matriarch => {}
       :hero => {}
-      :hero_friends {}
+      :hero_friends []
     :capulet => {
-      #your key/va
-  
+      :patriarch => {}
+      :matriarch => {}
+      :hero => {}
+      :heroine_friends []
 end
